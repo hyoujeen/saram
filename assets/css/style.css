@@ -736,8 +736,12 @@ Tobias section
 }
 .main_team_area .main_team_content{
     margin-bottom:80px;
-    display: inline-block;
+
+    display:flex;
     transition: 0.6s;
+
+    justify-content: center;
+    align-items: center;
 
 }
 
