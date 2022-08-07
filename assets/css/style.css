@@ -777,7 +777,8 @@ Tobias section
     line-height: 4rem;
 }
 .main_portfolio_content{
-    display: inline-block
+    display: inline-block;
+     margin-bottom:80px;
 }
 .main_portfolio_content .single_portfolio img{
     width:100%;
